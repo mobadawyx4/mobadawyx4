@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**moba# 💫 About Me:
+# 💫 About Me:
 🔭 I'm currently learning Web Application Security and practicing bug bounty hunting.<br><br>🛡️ I'm exploring web vulnerabilities, penetration testing, and ethical hacking.<br><br>🤝 I'm looking to collaborate on cybersecurity projects and open-source security tools.<br><br>🌱 I'm currently learning Networking, Linux, and web security.<br><br>💬 Ask me about Cybersecurity, Networking fundamentals, and Bug Bounty.<br><br>⚡ Fun fact: I enjoy breaking things ethically to understand how to secure them!
 
 
@@ -18,16 +15,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=mobadawyx4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->dawyx4/mobadawyx4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
